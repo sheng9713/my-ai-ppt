@@ -57,7 +57,7 @@ TrainPPTAgent/
 
 2.  **安装依赖**:
     ```bash
-    pip install -r requirements.txt
+    pip install -r backend/requirements.txt
     ```
 
 3.  **启动API服务**:
